@@ -1,6 +1,7 @@
 package site.metacoding.firstapp.domain.product;
 
 import java.sql.Timestamp;
+
 import lombok.Getter;
 import lombok.Setter;
 
